@@ -1,5 +1,6 @@
 Source is available at www.github.com/tmwbook/scorekeeper
-Download is available at
+
+Download is available at https://dl.dropboxusercontent.com/u/8175693/Score%20Keeper.zip
 
 This program uses the third version of the GNU GENERAL PUBLIC LICENSE, published 29 November 2007
 A copy of the license has been been included with the program and should be included with all versions
