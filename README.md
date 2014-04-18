@@ -1,7 +1,6 @@
-==============================================================================================
 Source is available at www.github.com/tmwbook/scorekeeper
 Download is available at
-==============================================================================================
+
 This program uses the third version of the GNU GENERAL PUBLIC LICENSE, published 29 November 2007
 A copy of the license has been been included with the program and should be included with all versions
 of the program.  A quick overview of the license is as follows:
@@ -10,7 +9,6 @@ You are permitted to: Commercially use this program, Distribute this program, Mo
 You ARE FORBIDDEN from: Holding the creator or author of this code liable for any warranty or damage, sublicensing this version or any modified versions of this code
 
 For a full version of this license and all legal requirements, permissions, and restrictions, please refer to "LICENSE.txt" found in this foulder
-=============================================================================================
 
 This program is designed to be used with OBS for easier and less time consuming score keeping.
 
@@ -18,10 +16,10 @@ This program is designed to be used with OBS for easier and less time consuming 
 Before doing anything listed below, please extract all contents of "Score Keeper.zip" to your
 foulder of choice.
 
-=============================================================================================
 
 
 How to use with Open Broadcast Software:
+	
 	1) If this is the first time running the program, follow steps 1 and 1a in the How To Use
 	   Score_Keeper section and return here.
 
@@ -40,6 +38,7 @@ How to use with Open Broadcast Software:
 	7) Repeat steps 3-6 for the remaining three text files.
 
 How To Use Score_Keeper:
+	
 	1) Run the program by double clicking it
 	    1a. If this is the first time running the program, press "Commit Changes" if you want the
 	    use the foulder that the program is in for your Score_Keeper files. If you want to use a
