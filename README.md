@@ -5,8 +5,11 @@ Download is available at https://dl.dropboxusercontent.com/u/8175693/Score%20Kee
 This program uses the third version of the GNU GENERAL PUBLIC LICENSE, published 29 November 2007
 A copy of the license has been been included with the program and should be included with all versions
 of the program.  A quick overview of the license is as follows:
+
 You are required to: Disclose the source code, Include a copy of the license, and idicate significant changes made to the code
+
 You are permitted to: Commercially use this program, Distribute this program, Modify this program, and use the program privately
+
 You ARE FORBIDDEN from: Holding the creator or author of this code liable for any warranty or damage, sublicensing this version or any modified versions of this code
 
 For a full version of this license and all legal requirements, permissions, and restrictions, please refer to "LICENSE.txt" found in this foulder
