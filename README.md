@@ -1,6 +1,6 @@
 Source is available at www.github.com/tmwbook/scorekeeper
 
-Download is available at https://dl.dropboxusercontent.com/u/8175693/Score%20Keeper.zip
+Download is available at https://www.mediafire.com/?1c505qcxtv4deb1
 
 Dowload Problems/Errors/ "Score Keeper.zip is not commonly downloaded..."
 =========================================================================================
