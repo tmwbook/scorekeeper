@@ -7,6 +7,8 @@ Dowload Problems/Errors/ "Score Keeper.zip is not commonly downloaded..."
 There will be a warning in chrome and IE if you try to download it, since this is a .zip file,
 you can view its contents safely and then decide if you want to keep it or not.
 
+License Information
+==============================================
 This program uses the third version of the GNU GENERAL PUBLIC LICENSE, published 29 November 2007
 A copy of the license has been been included with the program and should be included with all versions
 of the program.  A quick overview of the license is as follows:
@@ -19,6 +21,8 @@ You ARE FORBIDDEN from: Holding the creator or author of this code liable for an
 
 For a full version of this license and all legal requirements, permissions, and restrictions, please refer to "LICENSE.txt" found in this foulder
 
+Description and Instructions
+=========================================================
 This program is designed to be used with OBS for easier and less time consuming score keeping.
 
 
