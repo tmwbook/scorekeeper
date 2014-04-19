@@ -4,7 +4,7 @@ Download is available at https://www.mediafire.com/?1c505qcxtv4deb1
 
 Dowload Problems/Errors/ "Score Keeper.zip is not commonly downloaded..."
 =========================================================================================
-There will be a warning in chrome and IE if you try to download it. Since this is a .zip file,
+There will be a warning in chrome and IE if you try to download it from my dropbox. Since this is a .zip file,
 you can view its contents safely and then decide if you want to keep it or not.  To successfully
 download the file, click the arrow next to the download and click keep on the menu that pops up.
 
