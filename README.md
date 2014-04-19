@@ -2,7 +2,9 @@ Source is available at www.github.com/tmwbook/scorekeeper
 
 Download is available at https://dl.dropboxusercontent.com/u/8175693/Score%20Keeper.zip
 
-There will be a warning in chrome if you try to download it, since this is a .zip file,
+Dowload Problems/Errors/ "Score Keeper.zip is not commonly downloaded..."
+=========================================================================================
+There will be a warning in chrome and IE if you try to download it, since this is a .zip file,
 you can view its contents safely and then decide if you want to keep it or not.
 
 This program uses the third version of the GNU GENERAL PUBLIC LICENSE, published 29 November 2007
